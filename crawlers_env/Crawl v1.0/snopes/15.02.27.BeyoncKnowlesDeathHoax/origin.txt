@@ -1,5 +1,0 @@
-<blockquote>
- <br/>
- <center>
- </center>
-</blockquote>

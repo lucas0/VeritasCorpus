@@ -1,5 +1,0 @@
-<blockquote>
- <p class="p3">
-  As little time as I possibly could.
- </p>
-</blockquote>

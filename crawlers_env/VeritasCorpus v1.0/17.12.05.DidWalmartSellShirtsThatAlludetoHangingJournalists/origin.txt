@@ -1,8 +1,0 @@
-<blockquote>
- <p>
-  Rope. Tree. Journalist.
-  <br>
-   Some Assembly Required.
-  </br>
- </p>
-</blockquote>

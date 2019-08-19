@@ -1,4 +1,0 @@
-<blockquote class="note">
- <p>
- </p>
-</blockquote>

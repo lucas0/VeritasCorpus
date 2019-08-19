@@ -1,8 +1,0 @@
-<blockquote>
- <p>
-  <strong>
-   Miscellaneous treatments
-  </strong>
-  :
- </p>
-</blockquote>

@@ -1,2 +1,0 @@
-pandas==0.20.3
-tkinterhtml==0.7
