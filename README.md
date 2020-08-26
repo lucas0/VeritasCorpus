@@ -8,9 +8,9 @@ Entries of each Fact-Checking Agency are stored in separate csv files, ex: Snope
 
 The structure of each version might vary slightly but generally contains these columns 
 
-- **page/article_url
+- **page/article_url**
 : the url of the scrapped fact-checking article(FCA)  
-- **claim
+- **claim**
 : the main claim verified by the FCA
 - **claim_label
 : the label assigned to the verified claim
